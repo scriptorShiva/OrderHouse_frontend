@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# OrderHouse_frontend<<<<<<< HEAD
 # OrderHouse
 =======
 # Getting Started with Create React App
