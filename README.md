@@ -21,12 +21,12 @@ The OrderHouse frontend is thoughtfully crafted to provide an intuitive and effi
 
 **Project Structure:**
 
-- **src/**
-  - **components/**: Contains reusable micro-components.
-  - **views/**: Defines the main views of the application, each utilizing the micro-components.
-  - **routes/**: Contains the routing configuration, including protected routes.
-  - **interceptors/**: Includes interceptors for managing HTTP requests and responses.
-  - **...
+- **src**
+  - **components**: Contains reusable micro-components.
+  - **views**: Defines the main views of the application, each utilizing the micro-components.
+  - **routes**: Contains the routing configuration, including protected routes.
+  - **interceptors**: Includes interceptors for managing HTTP requests and responses.
+    
 
 **Usage:**
 
